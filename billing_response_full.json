@@ -1,0 +1,797 @@
+{
+    "processedCustomers":  [
+                               {
+                                   "customerId":  "CUST0001",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  33000,
+                                   "billingAmount":  33050
+                               },
+                               {
+                                   "customerId":  "CUST0002",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "South",
+                                   "usage":  85403,
+                                   "billingAmount":  102483.6
+                               },
+                               {
+                                   "customerId":  "CUST0003",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  142391,
+                                   "billingAmount":  142441
+                               },
+                               {
+                                   "customerId":  "CUST0004",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  8762,
+                                   "billingAmount":  8812
+                               },
+                               {
+                                   "customerId":  "CUST0005",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  71729,
+                                   "billingAmount":  86074.8
+                               },
+                               {
+                                   "customerId":  "CUST0006",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "East",
+                                   "usage":  82063,
+                                   "billingAmount":  65750.4
+                               },
+                               {
+                                   "customerId":  "CUST0007",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  189718,
+                                   "billingAmount":  189768
+                               },
+                               {
+                                   "customerId":  "CUST0008",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  45506,
+                                   "billingAmount":  54607.2
+                               },
+                               {
+                                   "customerId":  "CUST0009",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "West",
+                                   "usage":  75020,
+                                   "billingAmount":  60116
+                               },
+                               {
+                                   "customerId":  "CUST0010",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  30062,
+                                   "billingAmount":  36074.4
+                               },
+                               {
+                                   "customerId":  "CUST0011",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "South",
+                                   "usage":  33000,
+                                   "billingAmount":  39600
+                               },
+                               {
+                                   "customerId":  "CUST0012",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "North",
+                                   "usage":  133336,
+                                   "billingAmount":  106768.8
+                               },
+                               {
+                                   "customerId":  "CUST0013",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "West",
+                                   "usage":  9243,
+                                   "billingAmount":  7494.4
+                               },
+                               {
+                                   "customerId":  "CUST0014",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "North",
+                                   "usage":  45782,
+                                   "billingAmount":  36725.6
+                               },
+                               {
+                                   "customerId":  "CUST0015",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "North",
+                                   "usage":  52420,
+                                   "billingAmount":  62904
+                               },
+                               {
+                                   "customerId":  "CUST0016",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "East",
+                                   "usage":  138630,
+                                   "billingAmount":  111004
+                               },
+                               {
+                                   "customerId":  "CUST0017",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "South",
+                                   "usage":  168272,
+                                   "billingAmount":  201926.4
+                               },
+                               {
+                                   "customerId":  "CUST0018",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  85546,
+                                   "billingAmount":  85596
+                               },
+                               {
+                                   "customerId":  "CUST0019",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "West",
+                                   "usage":  151961,
+                                   "billingAmount":  121668.8
+                               },
+                               {
+                                   "customerId":  "CUST0020",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  115340,
+                                   "billingAmount":  138408
+                               },
+                               {
+                                   "customerId":  "CUST0021",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  33000,
+                                   "billingAmount":  33050
+                               },
+                               {
+                                   "customerId":  "CUST0022",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "East",
+                                   "usage":  29154,
+                                   "billingAmount":  29204
+                               },
+                               {
+                                   "customerId":  "CUST0023",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  10347,
+                                   "billingAmount":  12416.4
+                               },
+                               {
+                                   "customerId":  "CUST0024",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  127269,
+                                   "billingAmount":  152722.8
+                               },
+                               {
+                                   "customerId":  "CUST0025",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "Central",
+                                   "usage":  145371,
+                                   "billingAmount":  116396.8
+                               },
+                               {
+                                   "customerId":  "CUST0026",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "Central",
+                                   "usage":  172708,
+                                   "billingAmount":  172758
+                               },
+                               {
+                                   "customerId":  "CUST0027",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "South",
+                                   "usage":  21611,
+                                   "billingAmount":  21661
+                               },
+                               {
+                                   "customerId":  "CUST0028",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  78506,
+                                   "billingAmount":  94207.2
+                               },
+                               {
+                                   "customerId":  "CUST0029",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "East",
+                                   "usage":  44629,
+                                   "billingAmount":  44679
+                               },
+                               {
+                                   "customerId":  "CUST0030",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  135895,
+                                   "billingAmount":  163074
+                               },
+                               {
+                                   "customerId":  "CUST0031",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "South",
+                                   "usage":  33000,
+                                   "billingAmount":  26500
+                               },
+                               {
+                                   "customerId":  "CUST0032",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  195879,
+                                   "billingAmount":  235054.8
+                               },
+                               {
+                                   "customerId":  "CUST0033",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  150595,
+                                   "billingAmount":  180714
+                               },
+                               {
+                                   "customerId":  "CUST0034",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "South",
+                                   "usage":  86017,
+                                   "billingAmount":  86067
+                               },
+                               {
+                                   "customerId":  "CUST0035",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "North",
+                                   "usage":  18803,
+                                   "billingAmount":  22563.6
+                               },
+                               {
+                                   "customerId":  "CUST0036",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "West",
+                                   "usage":  76201,
+                                   "billingAmount":  61060.8
+                               },
+                               {
+                                   "customerId":  "CUST0037",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "North",
+                                   "usage":  135812,
+                                   "billingAmount":  108749.6
+                               },
+                               {
+                                   "customerId":  "CUST0038",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  129730,
+                                   "billingAmount":  155676
+                               },
+                               {
+                                   "customerId":  "CUST0039",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  20733,
+                                   "billingAmount":  24879.6
+                               },
+                               {
+                                   "customerId":  "CUST0040",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "West",
+                                   "usage":  76445,
+                                   "billingAmount":  61256
+                               },
+                               {
+                                   "customerId":  "CUST0041",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  44825,
+                                   "billingAmount":  53790
+                               },
+                               {
+                                   "customerId":  "CUST0042",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "Central",
+                                   "usage":  26856,
+                                   "billingAmount":  26906
+                               },
+                               {
+                                   "customerId":  "CUST0043",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  48337,
+                                   "billingAmount":  48387
+                               },
+                               {
+                                   "customerId":  "CUST0044",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "North",
+                                   "usage":  104533,
+                                   "billingAmount":  125439.6
+                               },
+                               {
+                                   "customerId":  "CUST0045",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  129167,
+                                   "billingAmount":  129217
+                               },
+                               {
+                                   "customerId":  "CUST0046",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  179552,
+                                   "billingAmount":  215462.4
+                               },
+                               {
+                                   "customerId":  "CUST0047",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "East",
+                                   "usage":  151064,
+                                   "billingAmount":  120951.2
+                               },
+                               {
+                                   "customerId":  "CUST0048",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  124441,
+                                   "billingAmount":  149329.2
+                               },
+                               {
+                                   "customerId":  "CUST0049",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "Central",
+                                   "usage":  181548,
+                                   "billingAmount":  145338.4
+                               },
+                               {
+                                   "customerId":  "CUST0050",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "South",
+                                   "usage":  72578,
+                                   "billingAmount":  58162.4
+                               },
+                               {
+                                   "customerId":  "CUST0051",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "Central",
+                                   "usage":  72022,
+                                   "billingAmount":  57717.6
+                               },
+                               {
+                                   "customerId":  "CUST0052",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  157739,
+                                   "billingAmount":  157789
+                               },
+                               {
+                                   "customerId":  "CUST0053",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "South",
+                                   "usage":  127646,
+                                   "billingAmount":  127696
+                               },
+                               {
+                                   "customerId":  "CUST0054",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  195691,
+                                   "billingAmount":  195741
+                               },
+                               {
+                                   "customerId":  "CUST0055",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "North",
+                                   "usage":  28769,
+                                   "billingAmount":  34522.8
+                               },
+                               {
+                                   "customerId":  "CUST0056",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "Central",
+                                   "usage":  160929,
+                                   "billingAmount":  160979
+                               },
+                               {
+                                   "customerId":  "CUST0057",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "South",
+                                   "usage":  145941,
+                                   "billingAmount":  145991
+                               },
+                               {
+                                   "customerId":  "CUST0058",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "North",
+                                   "usage":  121619,
+                                   "billingAmount":  145942.8
+                               },
+                               {
+                                   "customerId":  "CUST0059",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "East",
+                                   "usage":  19177,
+                                   "billingAmount":  19227
+                               },
+                               {
+                                   "customerId":  "CUST0060",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "East",
+                                   "usage":  96204,
+                                   "billingAmount":  77063.2
+                               },
+                               {
+                                   "customerId":  "CUST0061",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  7784,
+                                   "billingAmount":  9340.8
+                               },
+                               {
+                                   "customerId":  "CUST0062",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "North",
+                                   "usage":  194456,
+                                   "billingAmount":  233347.2
+                               },
+                               {
+                                   "customerId":  "CUST0063",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  82938,
+                                   "billingAmount":  82988
+                               },
+                               {
+                                   "customerId":  "CUST0064",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "Central",
+                                   "usage":  199757,
+                                   "billingAmount":  199807
+                               },
+                               {
+                                   "customerId":  "CUST0065",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  161389,
+                                   "billingAmount":  193666.8
+                               },
+                               {
+                                   "customerId":  "CUST0066",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "North",
+                                   "usage":  96455,
+                                   "billingAmount":  77264
+                               },
+                               {
+                                   "customerId":  "CUST0067",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  67719,
+                                   "billingAmount":  81262.8
+                               },
+                               {
+                                   "customerId":  "CUST0068",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  104871,
+                                   "billingAmount":  125845.2
+                               },
+                               {
+                                   "customerId":  "CUST0069",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  12370,
+                                   "billingAmount":  14844
+                               },
+                               {
+                                   "customerId":  "CUST0070",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  153394,
+                                   "billingAmount":  184072.8
+                               },
+                               {
+                                   "customerId":  "CUST0071",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  62190,
+                                   "billingAmount":  74628
+                               },
+                               {
+                                   "customerId":  "CUST0072",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  175392,
+                                   "billingAmount":  175442
+                               },
+                               {
+                                   "customerId":  "CUST0073",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "South",
+                                   "usage":  78986,
+                                   "billingAmount":  94783.2
+                               },
+                               {
+                                   "customerId":  "CUST0074",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "Central",
+                                   "usage":  98854,
+                                   "billingAmount":  98904
+                               },
+                               {
+                                   "customerId":  "CUST0075",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  134039,
+                                   "billingAmount":  160846.8
+                               },
+                               {
+                                   "customerId":  "CUST0076",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "Central",
+                                   "usage":  57258,
+                                   "billingAmount":  57308
+                               },
+                               {
+                                   "customerId":  "CUST0077",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  121657,
+                                   "billingAmount":  145988.4
+                               },
+                               {
+                                   "customerId":  "CUST0078",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  62927,
+                                   "billingAmount":  62977
+                               },
+                               {
+                                   "customerId":  "CUST0079",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "East",
+                                   "usage":  97223,
+                                   "billingAmount":  77878.4
+                               },
+                               {
+                                   "customerId":  "CUST0080",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "East",
+                                   "usage":  64545,
+                                   "billingAmount":  64595
+                               },
+                               {
+                                   "customerId":  "CUST0081",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "North",
+                                   "usage":  2058,
+                                   "billingAmount":  2469.6
+                               },
+                               {
+                                   "customerId":  "CUST0082",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  177295,
+                                   "billingAmount":  212754
+                               },
+                               {
+                                   "customerId":  "CUST0083",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "South",
+                                   "usage":  143873,
+                                   "billingAmount":  172647.6
+                               },
+                               {
+                                   "customerId":  "CUST0084",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  74942,
+                                   "billingAmount":  89930.4
+                               },
+                               {
+                                   "customerId":  "CUST0085",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "Central",
+                                   "usage":  183295,
+                                   "billingAmount":  219954
+                               },
+                               {
+                                   "customerId":  "CUST0086",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  199882,
+                                   "billingAmount":  199932
+                               },
+                               {
+                                   "customerId":  "CUST0087",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "South",
+                                   "usage":  198324,
+                                   "billingAmount":  158759.2
+                               },
+                               {
+                                   "customerId":  "CUST0088",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "Central",
+                                   "usage":  157330,
+                                   "billingAmount":  125964
+                               },
+                               {
+                                   "customerId":  "CUST0089",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  115952,
+                                   "billingAmount":  116002
+                               },
+                               {
+                                   "customerId":  "CUST0090",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "South",
+                                   "usage":  131267,
+                                   "billingAmount":  131317
+                               },
+                               {
+                                   "customerId":  "CUST0091",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "West",
+                                   "usage":  118880,
+                                   "billingAmount":  95204
+                               },
+                               {
+                                   "customerId":  "CUST0092",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "North",
+                                   "usage":  71553,
+                                   "billingAmount":  71603
+                               },
+                               {
+                                   "customerId":  "CUST0093",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "East",
+                                   "usage":  194368,
+                                   "billingAmount":  233241.6
+                               },
+                               {
+                                   "customerId":  "CUST0094",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  137455,
+                                   "billingAmount":  137505
+                               },
+                               {
+                                   "customerId":  "CUST0095",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "East",
+                                   "usage":  29688,
+                                   "billingAmount":  29738
+                               },
+                               {
+                                   "customerId":  "CUST0096",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "South",
+                                   "usage":  112401,
+                                   "billingAmount":  112451
+                               },
+                               {
+                                   "customerId":  "CUST0097",
+                                   "planName":  "Premium",
+                                   "cityRegion":  "Central",
+                                   "usage":  13041,
+                                   "billingAmount":  10532.8
+                               },
+                               {
+                                   "customerId":  "CUST0098",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "Central",
+                                   "usage":  44588,
+                                   "billingAmount":  44638
+                               },
+                               {
+                                   "customerId":  "CUST0099",
+                                   "planName":  "Standard",
+                                   "cityRegion":  "West",
+                                   "usage":  103768,
+                                   "billingAmount":  103818
+                               },
+                               {
+                                   "customerId":  "CUST0100",
+                                   "planName":  "Basic",
+                                   "cityRegion":  "West",
+                                   "usage":  182511,
+                                   "billingAmount":  219013.2
+                               }
+                           ],
+    "rejectedCustomers":  [
+
+                          ],
+    "aiSummary":  {
+                      "AnalysisReport":  {
+                                             "SuspiciousRecords":  [
+                                                                       {
+                                                                           "CustomerId":  "CUST0003",
+                                                                           "Reason":  "Extreme usage for Standard plan (142391). High usage relative to peers.",
+                                                                           "Usage":  142391,
+                                                                           "PlanName":  "Standard"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0007",
+                                                                           "Reason":  "Extreme usage for Standard plan (189718). High usage relative to peers.",
+                                                                           "Usage":  189718,
+                                                                           "PlanName":  "Standard"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0017",
+                                                                           "Reason":  "Extreme usage for Basic plan (168272). High usage relative to peers.",
+                                                                           "Usage":  168272,
+                                                                           "PlanName":  "Basic"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0026",
+                                                                           "Reason":  "Extreme usage for Standard plan (172708). High usage relative to peers.",
+                                                                           "Usage":  172708,
+                                                                           "PlanName":  "Standard"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0032",
+                                                                           "Reason":  "Extreme usage for Basic plan (195879). High usage relative to peers.",
+                                                                           "Usage":  195879,
+                                                                           "PlanName":  "Basic"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0046",
+                                                                           "Reason":  "Extreme usage for Basic plan (179552). High usage relative to peers.",
+                                                                           "Usage":  179552,
+                                                                           "PlanName":  "Basic"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0054",
+                                                                           "Reason":  "Extreme usage for Standard plan (195691). High usage relative to peers.",
+                                                                           "Usage":  195691,
+                                                                           "PlanName":  "Standard"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0062",
+                                                                           "Reason":  "Extreme usage for Basic plan (194456). High usage relative to peers.",
+                                                                           "Usage":  194456,
+                                                                           "PlanName":  "Basic"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0064",
+                                                                           "Reason":  "Extreme usage for Standard plan (199757). High usage relative to peers.",
+                                                                           "Usage":  199757,
+                                                                           "PlanName":  "Standard"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0081",
+                                                                           "Reason":  "Extreme usage for Basic plan (2058). Very low usage relative to peers.",
+                                                                           "Usage":  2058,
+                                                                           "PlanName":  "Basic"
+                                                                       },
+                                                                       {
+                                                                           "CustomerId":  "CUST0086",
+                                                                           "Reason":  "Extreme usage for Standard plan (199882). High usage relative to peers.",
+                                                                           "Usage":  199882,
+                                                                           "PlanName":  "Standard"
+                                                                       }
+                                                                   ],
+                                             "PlanStandardizationSuggestion":  [
+                                                                                   "All current PlanNames (Basic, Standard, Premium) conform to the suggested standardized categories."
+                                                                               ]
+                                         },
+                      "OperationalSummary":  {
+                                                 "TotalRecordsProcessed":  100,
+                                                 "TotalSuspiciousRecordsFlagged":  11,
+                                                 "UsageDistributionByPlan":  {
+                                                                                 "Basic":  42,
+                                                                                 "Standard":  37,
+                                                                                 "Premium":  21
+                                                                             },
+                                                 "KeyOperationalAlerts":  [
+                                                                              "11 records flagged for extreme usage (either unusually high for the plan tier, or extremely low).",
+                                                                              "Highest usage outlier: CUST0086 (Standard, 199882) and CUST0064 (Standard, 199757).",
+                                                                              "All plans successfully mapped to standard categories; no unknown plan names found.",
+                                                                              "No missing city/region data was detected."
+                                                                          ]
+                                             }
+                  }
+}

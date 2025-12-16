@@ -1,0 +1,13 @@
+bin/
+obj/
+.vscode/
+*.user
+*.pdb
+*.suo
+.DS_Store
+billing.db
+billing.db-shm
+billing.db-wal
+appsettings.Development.json
+# Don't ignore appsettings.json as it has the config structure, but user should be careful with keys.
+# Since this is a demo/deliverable, we'll keep it but warn.

@@ -1,0 +1,10 @@
+CustomerID,Plan,Region,Usage
+CUST0003,Plan C,West,"142,391"
+CUST0007,Plan B,North,"189,718"
+CUST0017,Plan E,South,"168,272"
+CUST0032,Plan E,East,"195,879"
+CUST0046,Plan A,Central,"179,552"
+CUST0064,Plan C,Central,"199,757"
+CUST0082,Plan A,East,"177,295"
+CUST0086,Plan B,North,"199,882"
+CUST0093,Plan A,East,"194,368"

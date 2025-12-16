@@ -1,0 +1,24 @@
+graph TD
+    %% Nodes
+    CSV[CSV Input File]
+    API[Billing Web API]
+    Norm[Normalization Logic]
+    Calc[Billing Engine]
+    AI[Gemini AI Service]
+    DB[(MongoDB Atlas)]
+    Response[JSON Response]
+
+    %% Flow
+    CSV -->|Upload| API
+    API -->|Raw Records| Norm
+    Norm -->|Clean Data| Calc
+    Calc -->|Processed Records| AI
+    Calc -->|Processed Records| DB
+    AI -->|Analysis & Summary| Response
+    Calc -->|Billing Details| Response
+
+    %% Subgraph for internal logic
+    subgraph "Billing Service"
+    Norm
+    Calc
+    end

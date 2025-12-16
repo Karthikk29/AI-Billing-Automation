@@ -1,0 +1,20 @@
+[
+    {
+        "customerId": "CUST004",
+        "planName": "unknown",
+        "cityRegion": "Paris",
+        "usage": 50
+    },
+    {
+        "customerId": "CUST005",
+        "planName": "Basic",
+        "cityRegion": "Berlin",
+        "usage": -10
+    },
+    {
+        "customerId": "CUST004",
+        "planName": "Standard",
+        "cityRegion": "Paris",
+        "usage": 100
+    }
+]

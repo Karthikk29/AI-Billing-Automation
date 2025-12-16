@@ -1,0 +1,20 @@
+[
+  {
+    "customerId": "CUST001",
+    "planName": "basic",
+    "cityRegion": "  new york ",
+    "usage": 100
+  },
+  {
+    "customerId": "CUST002",
+    "planName": "Standard",
+    "cityRegion": "London",
+    "usage": 200
+  },
+  {
+    "customerId": "CUST003",
+    "planName": "Premium",
+    "cityRegion": "tokyo",
+    "usage": 300
+  }
+]
